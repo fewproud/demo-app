@@ -2,6 +2,8 @@
 
 public class Login
 {
+	String id;
+
 	public static void main(String[] args) {
 	}
 }
