@@ -2,8 +2,8 @@
 
 public class Write {
 	int id;
-	int article_name;
-
+	String article_name;
+	
 	public static void main(args []) {
 	}
 }
