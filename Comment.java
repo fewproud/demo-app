@@ -4,6 +4,7 @@ public class Feature{
 	String note;
 	String weight;
 	int approverID;
+	String approverName;
 
 	public static void main(args[])
 	{
